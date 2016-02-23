@@ -5,7 +5,7 @@ public class Programa {
 		FabricaDeCarro fabricaDeCarro2 = FabricaDeCarro.getInstance();
 		
 		System.out.println(fabricaDeCarro1);
-		System.out.println(fabricaDeCarro2);
+		//System.out.println(fabricaDeCarro2);
 	
 	}
 }
